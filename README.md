@@ -1,4 +1,4 @@
-# Tribulnation Labs — Barcelona
+# Tribulnation Labs
 
 Crypto trading firm. We build the tools we trade on — and make them open source.
 
