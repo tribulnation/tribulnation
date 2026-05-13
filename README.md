@@ -36,7 +36,7 @@ pip install typed-alchemy
 |--|------|--------|
 | <img src="media/hyperliquid.svg" width="20" height="20" /> | [hyperliquid](https://github.com/tribulnation/hyperliquid) | ✅ Production |
 | <img src="media/mexc.svg" width="20" height="20" /> | [mexc](https://github.com/tribulnation/mexc) | ✅ Production |
-| <img src="media/alchemy.svg" width="20" height="20" /> | [alchemy](https://github.com/tribulnation/alchemy) | ✅ Production |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="media/alchemy-dark.svg"><img src="media/alchemy-light.svg" width="20" height="20" /></picture> | [alchemy](https://github.com/tribulnation/alchemy) | ✅ Production |
 | <img src="media/dydx.svg" width="20" height="20" /> | [dydx](https://github.com/tribulnation/dydx) | 🔧 In development |
 | <img src="media/bit2me.svg" width="20" height="20" /> | [bit2me](https://github.com/tribulnation/bit2me) | 🔧 In development |
 | <img src="media/binance.svg" width="20" height="20" /> | [binance](https://github.com/tribulnation/binance) | 📋 Planned |
